@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "MuchenSun's"
 title_right   : " Blog" # default: ""
-description   : "nice to meet you"
+description   : "Hey"
 keywords      : "muchen, blog"
 url           : https://muchensun.github.io/blog # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Muchen Sun"
 
 plugins:
   - jekyll-sitemap
