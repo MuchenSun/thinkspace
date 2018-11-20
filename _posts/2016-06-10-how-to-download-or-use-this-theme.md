@@ -6,6 +6,8 @@ description: "How to Download or Use This Theme"
 keywords: "dummy content"
 ---
 
+*`This post is reserved from the template`*
+
 ### Use this theme as you main site
 
 - Download or fork the master branch of this theme repo into your GitHub account.
