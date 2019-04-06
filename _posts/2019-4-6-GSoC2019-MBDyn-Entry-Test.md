@@ -22,7 +22,7 @@ recipe for target 'uninstall-recursive' failed" error)
 * Then type "mbdyn" in terminal to test. In my case, I had a "command not found" error. According to the [maillist](http://mail.mbdyn.org/pipermail/mbdyn-users/2019-March/002231.html), I added "export PATH=${PATH}:/usr/local/mbdyn/bin" in my .bashrc file and the problem is solved.
 
 ### 1.2 Test case
-I modified the the "free rigid body" example in the [MBDyn tutorial](https://www.mbdyn.org/userfiles/documents/tutorials.pdf). I setup rigid body and gave them different initial velocity. 
+I modified the the "free rigid body" example in the [MBDyn tutorial](https://www.mbdyn.org/userfiles/documents/tutorials.pdf). I setup two rigid bodies and gave them different mass and initial velocity. 
 Here is the source code:
 ~~~
 begin: data;
@@ -69,3 +69,6 @@ end: elements;
 
 The plot result is:
 ![plot result 1](https://raw.githubusercontent.com/MuchenSun/blog/master/img/mbdyn_entry_test_1.png)
+
+## Step 2
+To be continued ...
