@@ -68,4 +68,4 @@ end: elements;
 ~~~
 
 The plot result is:
-![plot result 1](https://github.com/MuchenSun/blog/tree/master/img/mbdyn_entry_test_1.jpeg)
+![plot result 1](https://raw.githubusercontent.com/MuchenSun/blog/master/img/mbdyn_entry_test_1.png)
